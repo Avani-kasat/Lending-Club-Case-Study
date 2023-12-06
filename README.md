@@ -50,11 +50,17 @@ Annual income serves as a fundamental indicator of a borrower's financial capaci
 Examining an applicant's public records, especially bankruptcy history, is paramount in gauging their financial stability and risk of default. Implementing stringent scrutiny and potentially adjusting lending terms for individuals with a history of bankruptcies can be an effective strategy in mitigating credit loss.
 
 - Additional considerations for finding loan defaults can include:
+  
 1)Borrowers residing mostly in rural areas.
+
 2)Borrowers falling within the annual income range of 50,000 to 100,000.
+
 3)Borrowers with a history of Public Recorded Bankruptcy.
+
 4)Borrowers assigned lower grades (E, F, G), they can be considered as a higher risk profile.
+
 5)Borrowers having high Debt-to-Income ratios.
+
 6)Borrowers having work experience of 10 years or more.
 
 
