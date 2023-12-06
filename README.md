@@ -11,14 +11,17 @@
 
 ## General Information
 - Provide general information about your project here.
+  
 This project is a based on doing EDA using the lending club dataset to do analysis and predict whether a loan will be defaulted or not.
 - What is the background of your project?
 
 The largest online loan marketplace, specializing in personal loans, business loans, and medical procedure financing, offers borrowers the convenience of accessing lower interest rate loans through a streamlined online interface.
 The primary concern lies in the identification and handling of 'risky' applicants, as extending loans to individuals with a higher likelihood of default poses a substantial threat to the company's financial stability. The term 'charged-off' is attributed to customers who, unfortunately, fall into the category of defaulters, causing a substantial financial loss to the lending institution.
 - What is the business probem that your project is trying to solve?
+  
 By leveraging the findings from EDA, we aim to implement effective measures that not only reduce credit loss but also foster a more resilient and sustainable lending environment for our online loan marketplace.
 - What is the dataset that is being used?
+  
 The dataset contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
 ## Technologies Used
